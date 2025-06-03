@@ -4,17 +4,23 @@ DoctorAche is a simple Java-based console application for managing doctor appoin
 
 ---
 
-## Features
+### Features
 
 - Add new doctors with unique IDs, names, and specializations.
 - Add new patients with unique IDs, names, and ages.
 - Book appointments by selecting a doctor and patient and specifying a date.
 - List all booked appointments in a readable format.
 - Save and load appointment data to and from local storage (serialization).
+ 
+---
+### System Workflow
+
+![DoctorAche](https://github.com/user-attachments/assets/678200cf-700e-4374-b4df-3a5e27e7ea16)
+
 
 ---
 
-## Installation
+### Installation
 
 1. **Clone the repository:**
    ```sh
@@ -33,7 +39,7 @@ DoctorAche is a simple Java-based console application for managing doctor appoin
 
 ---
 
-## Usage
+### Usage
 
 When you run the application, you will see a menu with options:
 
@@ -55,7 +61,7 @@ Choose:
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```
 src/
@@ -72,7 +78,7 @@ data/
 
 ---
 
-## Contributing
+### Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve functionality, fix bugs, or suggest new features.
 
